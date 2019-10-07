@@ -1,2 +1,2 @@
-# music_dl_wt19
-Course Materials for our 2019 course on Music and Deep Learning (Tuesday)
+# comp_music_wt19
+Course Materials for our Introduction to Computational Musicology WT2019 (Tuesday)
